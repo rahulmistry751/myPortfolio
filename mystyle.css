@@ -43,6 +43,18 @@ nav .link-active{
     font-weight: bold;
 }
 
+/* For blog pages*/
+
+.blog-style{
+    padding: 0.5rem 10vw;
+    font-family: sans-serif;
+    width:50vw;
+    margin:auto;
+}
+
+.blog-style h1{
+    text-align: center;
+}
 /* Header area*/
 header{
     display:flex;
