@@ -12,7 +12,10 @@ nav h1{
     font-family: monospace;
 }
 
-
+nav h1 a{
+    text-decoration: none;
+    color:black;
+}
 
 nav{
     margin-bottom: 10px;
